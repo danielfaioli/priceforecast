@@ -1,0 +1,34 @@
+name: priceforecast
+channels:
+  - defaults
+dependencies:
+  - blas=1.0
+  - ca-certificates=2020.6.24
+  - certifi=2020.6.20
+  - icc_rt=2019.0.0
+  - intel-openmp=2020.1
+  - mkl=2020.1
+  - mkl-service=2.3.0
+  - mkl_fft=1.1.0
+  - mkl_random=1.1.1
+  - numpy=1.18.5
+  - numpy-base=1.18.5
+  - openssl=1.1.1g
+  - pandas=1.0.5
+  - patsy=0.5.1
+  - pip=20.1.1
+  - python=3.7.7
+  - python-dateutil=2.8.1
+  - pytz=2020.1
+  - scipy=1.5.0
+  - setuptools=49.2.0
+  - six=1.15.0
+  - sqlite=3.32.3
+  - statsmodels=0.11.1
+  - vc=14.1
+  - vs2015_runtime=14.16.27012
+  - wheel=0.34.2
+  - wincertstore=0.2
+  - zlib=1.2.11
+prefix: C:\Users\danie\anaconda3\envs\priceforecast
+
